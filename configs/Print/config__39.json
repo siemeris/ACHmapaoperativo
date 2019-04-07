@@ -1,7 +1,7 @@
 {
   "serviceURL": "https://localhost:6443/arcgis/rest/services/TFM_ACH/ExportWebMapImpresion/GPServer/Export%20Web%20Map",
-  "defaultTitle": "ArcGIS Web Map",
-  "defaultAuthor": "Web AppBuilder for ArcGIS",
+  "defaultTitle": "Mapa Operativo Níger",
+  "defaultAuthor": "Acción Contra el Hambre",
   "defaultCopyright": "",
   "defaultFormat": "PNG8",
   "defaultLayout": "ACH_Impresion",

@@ -104,7 +104,7 @@ var
 
   ////////uncomment the following line when downloading the app
 
-  //apiUrl = 'https://js.arcgis.com/3.27';
+  apiUrl = 'https://js.arcgis.com/3.27';
 
   //////////////////////////////////////////////////////////////
   allCookies = getAllCookies();

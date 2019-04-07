@@ -100,12 +100,13 @@
         },
         "placeholderIndex": 1,
         "id": "_40",
-        "name": "Filter",
+        "name": "WidgetFiltro",
         "version": "2.11",
         "closeable": true,
-        "icon": "configs\\Filter\\icon__40.png",
-        "uri": "widgets/Filter/Widget",
-        "config": "configs/Filter/config__40.json"
+        "icon": "configs\\WidgetFiltro\\icon__40.png",
+        "uri": "widgets/WidgetFiltro/Widget",
+        "label": "Filtro",
+        "IsController": false
       },
       {
         "position": {
@@ -129,7 +130,10 @@
           "relativeTo": "map"
         },
         "placeholderIndex": 1,
-        "id": "_42"
+        "id": "_42",
+        "version": "2.11",
+        "closeable": true,
+        "uri": ""
       },
       {
         "position": {
@@ -453,7 +457,9 @@
   "isWebTier": false,
   "httpProxy": {
     "useProxy": true,
-    "url": "https://desktop-u2m2p30:3344/proxy.js"
+    "alwaysUseProxy": false,
+    "url": "",
+    "rules": []
   },
   "dataSource": {
     "dataSources": {},
