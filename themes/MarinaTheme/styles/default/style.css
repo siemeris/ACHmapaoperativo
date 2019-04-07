@@ -1,0 +1,128 @@
+.jimu-widget {
+  font-family: arial, georgia, times, serif;
+}
+
+.jimu-main-background {
+  background-color: white;
+}
+
+.jimu-title {
+  color: #005fb6;
+  font-family: arial, georgia, times, serif;
+}
+
+.jimu-subtitle {
+  color: #005fb6;
+  font-family: arial, georgia, times, serif;
+}
+
+.jimu-widget-onscreen-icon {
+  border: 2px solid #005fb6;
+  background-color: #005fb6;
+  border-radius: 100%;
+}
+
+.jimu-widget-onscreen-icon:hover {
+  background-color: #ee7203;
+}
+
+/* una vez metido el widget*/
+.jimu-widget-placeholder {
+  background-color: #005fb6;
+  border-radius: 100%;
+}
+
+.jimu-widget-placeholder:hover {
+  background-color: #ee7203;
+}
+
+.jimu-widget-placeholder .inner {
+  background-color: #005fb6;
+}
+
+/* Zoom mas y menos */
+.jimu-widget-zoomslider {
+  background-color: #5550;
+  border: 1px solid #fff0;
+}
+
+.jimu-widget-zoomslider.vertical .zoom-in {
+  border-radius: 100%;
+  border: 2px solid #005fb6;
+  background-color: #005fb6;
+  margin-bottom: 2px;
+}
+
+.jimu-widget-zoomslider .zoom {
+  background-color: #005fb6;
+  border: 2px solid #005fb6;
+  border-radius: 100%;
+}
+
+.jimu-widget-zoomslider .zoom:hover {
+  background-color: #ee7203;
+}
+
+/* HomeButton */
+.jimu-widget-homebutton {
+  background-color: #5550;
+  border: 1px solid #fff0;
+}
+
+.jimu-widget-homebutton .HomeButton .home {
+  background-color: #005fb6;
+  border: 2px solid #005fb6;
+  border-radius: 100%;
+}
+
+.jimu-widget-homebutton .HomeButton .home:hover {
+  background-color: #ee7203;
+}
+
+/* cabecera */
+.jimu-widget-header-controller .icon-node {
+  opacity: 1;
+  border-right: 2px solid #fff;
+  background-color: #005fb6;
+}
+
+.jimu-foldable-panel>.jimu-panel-title {
+  color: #fff;
+  background-color: #52ae32;
+}
+
+.jimu-foldable-panel>.jimu-panel-title {
+  font-family: arial, georgia, times, serif;
+}
+
+.jimu-widget-bookmark .header {
+  font-family: arial, georgia, times, serif;
+}
+
+.jimu-widget-header-controller .container-section {
+  margin-left: auto;
+  margin-right: 2px;
+}
+
+/* link */
+.jimu-link {
+  color: #005fb6;
+}
+
+.jimu-link:hover {
+  color: #ee7203;
+}
+
+/* desplegable del widget */
+.jimu-on-screen-widget-panel > .jimu-panel-title {
+  background-color: #52ae32;
+  font-family: arial, georgia, times, serif;
+}
+
+.jimu-btn {
+    background-color: #52ae32;
+}
+
+.jimu-btn:hover {
+    background-color: #ee7203;
+}

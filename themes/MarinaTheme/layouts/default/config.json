@@ -1,0 +1,149 @@
+{
+  "widgetOnScreen": {
+    "widgets": [{
+      "uri": "themes/MarinaTheme/widgets/HeaderController/Widget",
+      "position": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "height": 60,
+        "relativeTo": "browser"
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/Scalebar/Widget",
+      "position": {
+        "left": 7,
+        "bottom": 25
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/Coordinate/Widget",
+      "position": {
+        "left": 7,
+        "bottom": 5
+      },
+      "version": "2.11"
+    }, {
+      "position": {
+        "left": 10,
+        "top": 30
+      }
+    }, {
+      "position": {
+        "left": 10,
+        "top": 80
+      }
+    }, {
+      "position": {
+        "left": 10,
+        "top": 130
+      }
+    }, {
+      "position": {
+        "left": 10,
+        "top": 180
+      }
+    }, {
+      "position": {
+        "left": 10,
+        "top": 230
+      }
+    }, {
+      "uri": "widgets/OverviewMap/Widget",
+      "position": {
+        "right": 0,
+        "bottom": 0,
+        "zIndex": 1
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/HomeButton/Widget",
+      "inPanel": false,
+      "position": {
+        "right": 7,
+        "top": 98
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/AttributeTable/Widget",
+      "version": "2.11",
+      "position": {
+        "relativeTo": "browser"
+      }
+    }, {
+      "uri": "widgets/Splash/Widget",
+      "visible": false,
+      "position": {
+        "relativeTo": "browser"
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/ZoomSlider/Widget",
+      "visible": true,
+      "position": {
+        "top": 30,
+        "right": 7
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/ExtentNavigate/Widget",
+      "visible": false,
+      "position": {
+        "top": 190,
+        "left": 7
+      },
+      "version": "2.11"
+    }, {
+      "uri": "widgets/FullScreen/Widget",
+      "visible": false,
+      "position": {
+        "top": 150,
+        "left": 7
+      },
+      "version": "2.11"
+    }]
+  },
+
+  "map": {
+    "position": {
+      "left": 0,
+      "top": 40,
+      "right": 0,
+      "bottom": 0
+    }
+  },
+
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/MarinaTheme/panels/FoldablePanel/Panel",
+      "position": {
+        "top": 5,
+        "right": 5,
+        "bottom": 5,
+        "zIndex": 5
+      }
+    }
+  },
+
+  "mobileLayout": {
+    "widgetOnScreen": {
+      "widgets": {
+        "widgets/Scalebar/Widget": {
+          "position": {
+            "left": 7,
+            "bottom": 40
+          },
+          "version": "1.4"
+        },
+        "widgets/Coordinate/Widget": {
+          "position": {
+            "left": 7,
+            "bottom": 17
+          },
+          "version": "1.4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "MarinaTheme",
+  "platform": "HTML",
+  "panels": [{
+    "name": "MarinaTheme",
+    "description": "This is foldable panel"
+  }],
+  "styles": [{
+      "name": "default",
+      "description": "this is default style",
+      "styleColor": "white"
+    }
+
+  ],
+  "layouts": [{
+      "name": "default",
+      "description": "this is default layout"
+    }
+
+  ],
+  "widgets": [{
+    "name": "HeaderController",
+    "description": "this is theme widget controller"
+  }],
+  "version": "2.11",
+  "wabVersion": "2.11",
+  "author": "Marina VR",
+  "description": "Tema derivado de uno ya existente",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0"
+}
